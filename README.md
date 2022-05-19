@@ -61,3 +61,17 @@ sudo python ddos.py
 
 
 ## screenshot:
+
+
+
+![DDOS-BOMBER](https://user-images.githubusercontent.com/97976765/169386159-7d5ed0a3-4a40-4a36-a79d-06fa70ff09fc.jpg)
+
+
+
+![DDOS--BOMBER](https://user-images.githubusercontent.com/97976765/169386165-749504db-682a-4f89-83cd-bcdaa0aa2c19.jpg)
+
+
+
+
+![DDOS---BOMBER](https://user-images.githubusercontent.com/97976765/169386167-5940fcf8-0003-4a10-9069-1dd6580ec853.jpg)
+
