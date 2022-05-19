@@ -58,3 +58,6 @@ chmod +x ddos.py
 ```
 sudo python ddos.py 
 ```
+
+
+## screenshot:
