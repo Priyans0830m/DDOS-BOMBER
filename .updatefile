@@ -1,0 +1,8 @@
+apt install git
+apt install python3
+pip install cython 
+rm -rf $HOME/DDOS-BOMBER
+cd $HOME
+git clone https://github.com/priyans0830m/DDOS-BOMBER
+cd $HOME/DDOS-BOMBER
+python3 SpS.py
