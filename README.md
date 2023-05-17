@@ -8,8 +8,12 @@
 
 Run these commands to run DDOS-BOMBER
 
+
+
+
 ## > For Termux:
 
+# [Termux Download](https://f-droid.org/repo/com.termux_118.apk)
 #### To use the bomber type the following commands in Termux:
 ```
 pkg install git
